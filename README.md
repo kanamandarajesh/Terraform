@@ -2,6 +2,8 @@
 
 Here’s a detailed example project structure specifically for an ec2-instance module in Terraform. This example will include the contents of each file in the ec2-instance module, as well as the main configuration to use it.
 
+
+```
 my-terraform-project/
 ├── main.tf
 ├── variables.tf
@@ -17,3 +19,4 @@ my-terraform-project/
         ├── variables.tf
         ├── outputs.tf
         └── README.md
+```
