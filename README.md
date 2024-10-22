@@ -20,3 +20,15 @@ my-terraform-project/
         ├── outputs.tf
         └── README.md
 ```
+
+## Below project structure is for vpc 
+
+```
+terraform-vpc/
+├── main.tf
+└── modules/
+    └── vpc/
+        ├── main.tf
+        ├── variables.tf
+        └── outputs.tf
+```
