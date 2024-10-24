@@ -7,8 +7,3 @@ output "instance_type" {
   description = "The type of the instance."
   value       = aws_instance.example.instance_type
 }
-
-output "instance_state" {
-  description = "The current state of the instance."
-  value       = aws_instance.example.state
-}
