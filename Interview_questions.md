@@ -110,5 +110,3 @@ Here are detailed answers for the Terraform interview questions listed earlier:
    - First, run `terraform plan` to ensure your configuration is correct and check for any errors. Then, check the Terraform logs by running `TF_LOG=DEBUG terraform apply` to get more detailed output. Finally, check the cloud provider’s console for any issues related to the EC2 instance creation.
 
 ---
-
-These answers should provide you with a solid understanding of Terraform for your interview preparation!
